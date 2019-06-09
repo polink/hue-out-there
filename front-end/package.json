@@ -10,8 +10,12 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
+<<<<<<< HEAD
     "superagent": "^5.0.6",
     "uuid": "^3.3.2"
+=======
+    "superagent": "^5.0.6"
+>>>>>>> 367994f0c188cbd6551e3ab1f6768cf4d04b65d8
   },
   "scripts": {
     "start": "react-scripts start",
