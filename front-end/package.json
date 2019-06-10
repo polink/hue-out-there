@@ -1,22 +1,18 @@
 {
   "name": "front-end",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
-<<<<<<< HEAD
     "superagent": "^5.0.6",
     "uuid": "^3.3.2"
-=======
-    "superagent": "^5.0.6"
->>>>>>> 367994f0c188cbd6551e3ab1f6768cf4d04b65d8
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -24,18 +20,21 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+  "extends": "react-app"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "production": [
+  ">0.2%",
+  "not dead",
+  "not op_mini all"
+  ],
+  "development": [
+  "last 1 chrome version",
+  "last 1 firefox version",
+  "last 1 safari version"
+  ]
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
