@@ -48,7 +48,16 @@ typings/
 .DS_Store
 # node module
 node_modules
+<<<<<<< HEAD
 # DataBase
 db
 # Package.json
 package-lock.json
+=======
+
+# DataBase
+db
+
+# Package.json
+package-lock.json
+>>>>>>> 9a77708b6a157eaaf2c3d275a66ace0aea3a7859
